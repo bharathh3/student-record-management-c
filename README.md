@@ -14,7 +14,3 @@ A console-based application developed in C to manage student records using struc
 - Structures and pointers
 - File handling
 - Dynamic memory allocation
-
-## How to Run
-gcc main.c -o student
-./student
